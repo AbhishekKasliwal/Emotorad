@@ -35,5 +35,5 @@ The solution includes a single API endpoint, `/identify`, which:
 ### Installation Instructions
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/AbhishekKasliwal/Emotorad>
    cd emotorad-backend-task
