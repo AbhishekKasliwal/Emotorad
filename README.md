@@ -24,7 +24,7 @@ The solution includes a single API endpoint, `/identify`, which:
 - **/identify Endpoint**: This endpoint processes contact information to:
   - **Create a New Primary Contact** when no match is found.
   - **Create Secondary Contacts** when partial matches exist (either `email` or `phoneNumber`).
-  - **Update Contact Roles** dynamically to ensure consistency in `primary` and `secondary` designations.
+  - **Update Contact Roles** dynamically to ensure consistency in `primary` and `secondary` designation.
 
 ## Project Setup
 
